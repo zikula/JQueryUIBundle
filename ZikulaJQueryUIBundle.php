@@ -12,7 +12,7 @@
  * information regarding copyright and licensing.
  */
 
-namespace Zikula\JQueryUIBundle;
+namespace Zikula\Bundle\JQueryUIBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

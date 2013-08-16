@@ -16,7 +16,7 @@
         "components/jqueryui": "~1"
     },
     "autoload": {
-        "psr-0": { "Zikula\\JQueryUIBundle": "" }
+        "psr-0": { "Zikula\\Bundle\\JQueryUIBundle\\": "" }
     },
     "config": {
         "component-dir": "Resources/public/js"
